@@ -27,6 +27,6 @@ Screenshots:
 
 After installing should look like this
 
-![image](https://user-images.githubusercontent.com/99596517/182233011-ae8285aa-c90f-462a-8e7c-3deb2fd7aa6e.png)
+![image](https://user-images.githubusercontent.com/99596517/182675393-bb01a50b-480b-49a3-a297-9d120c478623.png)
 
 
